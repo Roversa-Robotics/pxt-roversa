@@ -3,7 +3,7 @@ More info for Roversa can be found on [roversa.com](https://www.roversa.com) or 
 
 ## Roversa
 
-![roversa v2.1.1](https://github.com/eb8ga/roversa2/blob/main/github/pics/CADView.png?raw=true)
+![roversa 2025](roversa_real.png)
 
 ### Buttons
 Pins are matched to the following micro:bit inputs:
